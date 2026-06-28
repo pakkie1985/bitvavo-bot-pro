@@ -1,17 +1,8 @@
-# Runtime
 status.json
 state.json
 trades.log
-
-# Python
+ha.env
 __pycache__/
 *.pyc
-
-# Secrets
-ha.env
-
-# Database
 *.db
-
-# Virtualenv
 venv/

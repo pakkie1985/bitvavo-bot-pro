@@ -1,0 +1,12 @@
+{
+  "market": "BTC-EUR",
+  "start_balance": 500,
+  "trade_eur": 100,
+  "take_profit_pct": 2.0,
+  "stop_loss_pct": 1.0,
+  "daily_max_loss": -10,
+  "daily_max_profit": 10,
+  "max_trades_per_day": 3,
+  "check_seconds": 60,
+  "dry_run": true
+}

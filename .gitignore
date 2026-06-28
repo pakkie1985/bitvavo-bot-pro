@@ -1,0 +1,17 @@
+# Runtime
+status.json
+state.json
+trades.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+ha.env
+
+# Database
+*.db
+
+# Virtualenv
+venv/
